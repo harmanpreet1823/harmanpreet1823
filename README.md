@@ -94,7 +94,7 @@
 [course]: http://vsCodeHero.com
 [behance]: https://www.behance.net/harmanpsingh12
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/13harman_/
 [linkedin]: https://www.linkedin.com/in/harmanpreetsingh123/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
