@@ -97,7 +97,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://www.upwork.com/freelancers/~01504ae83e3114a006?viewMode=1
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
