@@ -4,10 +4,10 @@
 
 ## I'm a Student, Coder, Designer, and Freelancer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other designers and developers
 - 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to draw and play games
+- ⚡ Fun fact: I love to design and play games
 
 ### Connect with me:
 
