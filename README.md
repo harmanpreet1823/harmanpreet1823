@@ -1,4 +1,4 @@
-### Hi there, I'm Harmanpreet Singh - aka [Softgilehri][website] 👋
+### Hi there, I'm Harmanpreet Singh👋
 
 [![Website](https://img.shields.io/website?label=Harmanpreet_Upwork&style=for-the-badge&url=https://www.upwork.com/freelancers/~01504ae83e3114a006?viewMode=1)](https://www.upwork.com/freelancers/~01504ae83e3114a006?viewMode=1)
 
