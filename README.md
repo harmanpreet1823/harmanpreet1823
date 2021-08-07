@@ -1,8 +1,6 @@
-### Hi there, I'm Harmanpreet Singh👋
+## Hi there, I'm Harmanpreet Singh👋
 
-[![Website](https://img.shields.io/website?label=Harmanpreet_Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/harmanpreetsingh123)](https://www.linkedin.com/in/harmanpreetsingh123)
-
-## I'm a Learner, Coder, Designer!!
+### I'm a Learner, Coder, Designer!!
 
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other designers and developers
@@ -10,7 +8,7 @@
 - ⚡ Fun fact: I love to design and play games
 
 ### Connect with me:
-
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" background-color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][Upwork]
@@ -34,7 +32,7 @@
 
 </details>
 
-[website]: https://www.linkedin.com/in/harmanpreetsingh123/
+[linkedin]: https://www.linkedin.com/in/harmanpreetsingh123/
 [behance]: https://www.behance.net/harmanpsingh12
 [instagram]: https://www.instagram.com/13harman_/
 [Upwork]: https://www.upwork.com/freelancers/~01504ae83e3114a006?viewMode=1
