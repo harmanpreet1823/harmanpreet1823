@@ -1,6 +1,6 @@
 ### Hi there, I'm Harmanpreet Singh👋
 
-[![Website](https://img.shields.io/website?label=Harmanpreet_Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/harmanpreetsingh123/)](https://www.linkedin.com/in/harmanpreetsingh123/)
+[![Website](https://img.shields.io/website?label=Harmanpreet_Linkedin&style=for-the-badge&url=https://www.linkedin.com)](https://www.linkedin.com/in/harmanpreetsingh123/)
 
 ## I'm a Student, Coder, Designer, and Freelancer!!
 
