@@ -1,6 +1,6 @@
 ### Hi there, I'm Harmanpreet Singh👋
 
-[![Website](https://img.shields.io/website?label=Harmanpreet_Linkedin&url=https://www.linkedin.com)](https://www.linkedin.com/in/harmanpreetsingh123/)
+[![Website](https://img.shields.io/website?label=Harmanpreet_Linkedin&style=for-the-badge&url=https://www.linkedin.com)](https://www.linkedin.com/in/harmanpreetsingh123/)
 
 ## I'm a Learner, Coder, Designer!!
 
@@ -13,7 +13,7 @@
 
 [<img align="left" width="22px" background-color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][Upwork]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -37,5 +37,5 @@
 [website]: https://www.upwork.com/freelancers/~01504ae83e3114a006?viewMode=1
 [behance]: https://www.behance.net/harmanpsingh12
 [instagram]: https://www.instagram.com/13harman_/
-[linkedin]: https://www.linkedin.com/in/harmanpreetsingh123/
+[Upwork]: https://www.upwork.com/freelancers/~01504ae83e3114a006?viewMode=1
 
