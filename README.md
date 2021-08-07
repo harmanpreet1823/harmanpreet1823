@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Harmanpreet_Linkedin&style=for-the-badge&url=https://www.linkedin.com)](https://www.linkedin.com/in/harmanpreetsingh123/)
 
-## I'm a Student, Coder, Designer, and Freelancer!!
+## I'm a Learner, Coder, Designer!!
 
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other designers and developers
