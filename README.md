@@ -34,7 +34,7 @@
 
 </details>
 
-[website]: https://www.linkedin.com/
+[website]: https://www.linkedin.com/in/harmanpreetsingh123/
 [behance]: https://www.behance.net/harmanpsingh12
 [instagram]: https://www.instagram.com/13harman_/
 [Upwork]: https://www.upwork.com/freelancers/~01504ae83e3114a006?viewMode=1
