@@ -1,6 +1,6 @@
 ## Hi there, I'm Harmanpreet Singh👋
 
-### I'm a Learner, Coder, Designer!!
+### I'm a Learner, Coder & Designer!!
 
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other designers and developers
